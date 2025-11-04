@@ -17,7 +17,7 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/BenoitAnastay/home-assistant-addons-repository
+https://github.com/ashishs1/home-assistant-addons-repository
 ```
 
 ## Releases
