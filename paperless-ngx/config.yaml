@@ -57,4 +57,4 @@ schema:
   ingress_auth: bool
   tika_gotenberg: bool
   locales: str?
-image: ghcr.io/ashishs1/paperless-ngx/{arch}
+# image: ghcr.io/ashishs1/paperless-ngx/{arch}
