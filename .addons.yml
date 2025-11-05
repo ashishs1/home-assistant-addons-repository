@@ -4,4 +4,4 @@ addons:
   paperless-ngx:
     repository: ashishs1/paperless-home-assistant-addon
     target: paperless-ngx
-    image: ghcr.io/ashishs1/paperless-ngx/{arch}
+    # image: ghcr.io/ashishs1/paperless-ngx/{arch}
